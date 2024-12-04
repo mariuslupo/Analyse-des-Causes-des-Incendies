@@ -1,5 +1,5 @@
 
-# **Analyse des Causes et Facteurs des Incendies**
+# **Analyse des Causes des Incendies**
 
 ## **Description du Projet**
 Ce projet vise à analyser si les causes d'un incendie influences ses dégats. L'objectif est de comprendre quels sont les facteurs influant sur la surface parcourue par les incendies, en utilisant des données structurées et des outils d'analyse statistique.
