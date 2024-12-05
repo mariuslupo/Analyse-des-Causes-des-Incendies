@@ -19,7 +19,7 @@ Ce travail peut servir de base pour des études environnementales, des politique
 Les données utilisées dans ce projet proviennent de :
 - https://bdiff.agriculture.gouv.fr/
 
-> ⚠️ **Note** : Les données réelles ne sont pas incluses dans ce dépôt pour des raisons de confidentialité. Si vous souhaitez reproduire ce travail, utilisez des données similaires ou contactez l'auteur.
+> ⚠️ **Note** : Les données réelles ne sont pas incluses dans ce dépôt pour des raisons de taille.
 
 ---
 
